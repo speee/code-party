@@ -1,0 +1,17 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    |
+    (Answer)
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - (Group1)
+    - (Group2)
+    - ...
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+    (Answer)

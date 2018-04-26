@@ -1,6 +1,6 @@
 # Code Party（コード懇親会）
 
-Ruby is a programming language that focus to be fun. You are fun with programming with Ruby, right? We will be able to have fun a party that focus code with Ruby as usual!
+Ruby is a programming language that focus to have fun. You have fun with programming with Ruby, right? We will be able to have fun a party that focus code with Ruby as usual!
 
 Rubyは楽しくプログラミングできることを大事にしているプログラミング言語です。みなさんも、いつもRubyで楽しくプログラミングしているはずです。だったら、いつものようにコードを書きながら懇親すると楽しそうじゃないですか！
 
@@ -70,8 +70,9 @@ Rubyは楽しくプログラミングできることを大事にしているプ�
        * 例：途中（1時間くらい経ったら）、自分たちのグループがどんなグループかを他のグループに簡単に紹介する時間がある
      * 会場には飲食物を用意
   4. アンケートを提出
-     * 最後にこの会がどうだったかをpull requestで提出
+     * 最後にこの会がどうだったかをプルリクエストで提出
        * コード懇親会なので、アンケートの提出もいつものように！
+     * 提出方法は[feedback](feedback/)を参照
 
 ## ねらい
 
