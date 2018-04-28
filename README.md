@@ -27,33 +27,37 @@ So, in order to be able to imagine the contents of this code party, we have summ
 
 If you have anything else you want to know please ask with the [issue](https://github.com/speee/code-party/issues). It is the same way as usual development! Because it's a code party!
 
-他にも知りたいことがある人は[issue](https://github.com/speee/code-party/issues)で質問してください。普段の開発と同じやり方です！だって、これはコード懇親会ですから！
+他にも知りたいことがある人は [issue](https://github.com/speee/code-party/issues) で質問してください。普段の開発と同じやり方です！だって、これはコード懇親会ですから！
 
 
 ### Similar Contents（似ている内容）
 
-The content of the code party is similar to "Sprint". In Python's event, We often see "Sprint". For example, there was [Sprint of PyCon JP 2017 in Tokyo] (https://pycon.jp/2017/en/events/sprint/).
-
-コード懇親会の内容は「スプリント」と似ています。Pythonのイベントでは「スプリント」をよくみかけます。たとえば、[PyCon JP 2017 in Tokyo のスプリント](https://pycon.jp/2017/ja/events/sprint/)がありました。
-
+The content of the code party is similar to "Sprint". In Python's event, We often see "Sprint". For example, there was [Sprint of PyCon JP 2017 in Tokyo](https://pycon.jp/2017/en/events/sprint/).
 Both Sprint and code party write code, but Sprint focuses on developing it, Code Party focuses on writing code and enjoying it.
 
+コード懇親会の内容は「スプリント」と似ています。Pythonのイベントでは「スプリント」をよくみかけます。たとえば、[PyCon JP 2017 in Tokyo のスプリント](https://pycon.jp/2017/ja/events/sprint/)がありました。
 スプリントもコード懇親会もコードを書きますが、スプリントは開発することにより注力し、コード懇親会は懇親することに注力します。
 
+
+The content of the code party is somewhat similar to "Hackathon". Both of them write the code, but there are the following differences.
+  
+  * Hackathon may be held for a long time, but the code party ends in the same amount of time (2 hours) as a typical party.
+  * In Hackathon, we may review development results, but never review at code party.
 
 コード懇親会の内容は少し「ハッカソン」に似ています。どちらもコードを書きますが、次のような違いがあります。
 
   * ハッカソンは長時間開催されることがあるが、コード懇親会はよくある懇親会と同じくらいの時間（2時間）で終わる
   * ハッカソンでは開発成果を審査することがあるが、コード懇親会は決して審査しない
 
-### やらないこと
+
+### What you do not do（やらないこと）
 
 コード懇親会のコンセプトは「いつもRubyで楽しくコードを書いているなら、コードを通じて懇親するのも楽しいよね！」です。そのため、コード懇親会では「いつもと違うコードの書き方で盛り上げる」ことはしません。たとえば、次のような企画は用意しません。（参加者同士が自発的にやることは自由です。）
 
   * コードゴルフ
   * モブプログラミング
 
-### やること
+### What you do（やること）
 
 コード懇親会は参加者がいつものようにコードを書いて懇親します。そのために、次のようなように進めます。
 
