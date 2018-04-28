@@ -52,6 +52,12 @@ The content of the code party is somewhat similar to "Hackathon". Both of them w
 
 ### What you do not do（やらないこと）
 
+The concept of code party is "If you are writing code fun even alone, it is fun to interact through code!"
+Therefore, at the code party, we will not "enrich with the usual way of writing code". For example, we do not prepare the following planning. (It is free for participants to do spontaneously with each other.)
+
+  * Code Golf
+  * Mob Programming
+  
 コード懇親会のコンセプトは「いつもRubyで楽しくコードを書いているなら、コードを通じて懇親するのも楽しいよね！」です。そのため、コード懇親会では「いつもと違うコードの書き方で盛り上げる」ことはしません。たとえば、次のような企画は用意しません。（参加者同士が自発的にやることは自由です。）
 
   * コードゴルフ
@@ -59,8 +65,19 @@ The content of the code party is somewhat similar to "Hackathon". Both of them w
 
 ### What you do（やること）
 
+Participants write code as usual as a code party. To do so, proceed as follows.
 コード懇親会は参加者がいつものようにコードを書いて懇親します。そのために、次のようなように進めます。
 
+ 1. Create a group for each product
+     * Example: Ruby itself, mruby, Rails itself, various gem, Red Data Tools etc.
+     * What kind of group you can do depends on the participants (If you do not have it yet, make it new)
+     * Desks and chairs are gathered for each group
+       * To make code easy to write
+     * Preparing n displays for each group (in adjustment)
+       * In order to make it easy to share PC screen
+     * White board prepared for each group
+       * For easier discussion
+       
   1. プロダクトごとにグループを作る
      * 例：Ruby本体やmrubyやRails本体や各種gemやRed Data Toolsなど
      * どんなグループができるかは参加者次第（まだなかったら新しく作る）
@@ -70,11 +87,30 @@ The content of the code party is somewhat similar to "Hackathon". Both of them w
        * PCの画面を共有しやすくするため
      * 各グループにホワイトボードを用意
        * 相談しやすくするため
+  
+  2. Participants join somewhere in the group
+     * Group can be changed freely later, so feel free to decide
+     * You can decide which group you want to join in advance, whichever you decide not to decide
+     * You can talk to which group you would like to join at the reception
+       * Receptionist is RubyKaigi 2018 keynote speaker Suto
+       
   2. 参加者はなにかしらのグループに入る
      * グループはあとから自由に変更できるので気軽に決めてよい
      * 事前にどのグループに入りたいかは決めてきても決めてこなくてもどちらでもよい
      * 受付でどのグループに入るのがよさそうか相談できる
        * 受付はRubyKaigi 2018キーノートスピーカーの須藤
+  
+  3. Interacting while writing the code together in the group
+     * Main content (less than 2 hours)
+     * Example: Consultation on development offline with people who are constantly developing together online
+     * Example: Consultation as to the author of gem that I normally use talks about where it is better to participate in development
+     * Example: Participants who do not understand words (eg Japanese) and interacting through code with Ruby
+     * Move to other group
+     * Make it easier to understand what other groups are there
+       * Example: Group map is prepared on the whiteboard
+       * Example: There is time to briefly introduce to other groups what their group is doing on the way (about an hour)
+     * Food and drink prepared at the venue
+  
   3. グループ内で一緒にコードを書きながら懇親
      * メインコンテンツ（2時間弱）
      * 例：オンラインで一緒に開発している人とオフラインで開発の相談
@@ -86,6 +122,12 @@ The content of the code party is somewhat similar to "Hackathon". Both of them w
        * 例：ホワイトボードにグループマップを用意
        * 例：途中（1時間くらい経ったら）、自分たちのグループがどんなグループかを他のグループに簡単に紹介する時間がある
      * 会場には飲食物を用意
+     
+  4. Submit a questionnaire
+     * Submit the pull request on how the code party is in the end
+       * Since it is a code party, submit a questionnaire as usual!
+     * Refer to [feedback] (feedback /) for the submission method
+  
   4. アンケートを提出
      * 最後にこの会がどうだったかをプルリクエストで提出
        * コード懇親会なので、アンケートの提出もいつものように！
