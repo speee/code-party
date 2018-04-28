@@ -32,7 +32,7 @@ If you have anything else you want to know please ask with the [issue](https://g
 
 ### Similar Contents（似ている内容）
 
-The content of the code party is similar to "Sprint". In Python's event, We often see "Sprint". For example, there was [Sprint of PyCon JP 2017 in Tokyo](https://pycon.jp/2017/en/events/sprint/).
+The content of the code party is similar to "Sprint". In Python's event, We often see "Sprint". For example, there are [Development Sprints of PyCon 2018 in Cleveland, Ohio](https://us.pycon.org/2018/community/sprints/).
 Both Sprint and code party write code, but Sprint focuses on developing it, Code Party focuses on writing code and enjoying it.
 
 コード懇親会の内容は「スプリント」と似ています。Pythonのイベントでは「スプリント」をよくみかけます。たとえば、[PyCon JP 2017 in Tokyo のスプリント](https://pycon.jp/2017/ja/events/sprint/)がありました。
