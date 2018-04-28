@@ -127,7 +127,7 @@ Participants write code as usual as a code party. To do so, proceed as follows.
   4. Submit a questionnaire
      * Submit the pull request on how the code party is in the end
        * Since it is a code party, submit a questionnaire as usual!
-     * Refer to [feedback] (feedback /) for the submission method
+     * Refer to [feedback](feedback/) for the submission method
 
   4. アンケートを提出
      * 最後にこの会がどうだったかをプルリクエストで提出
