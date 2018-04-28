@@ -68,11 +68,10 @@ Therefore, at the code party, we will not "enrich with the usual way of writing 
 Participants write code as usual as a code party. To do so, proceed as follows.
 コード懇親会は参加者がいつものようにコードを書いて懇親します。そのために、次のようなように進めます。
 
-
  1. Create a group for each product
-     * Example: Ruby itself, mruby, Rails itself, various gem, Red Data Tools etc.
-     * What kind of group you can do depends on the participants (If you do not have it yet, make it new)
-     * Desks and chairs are gathered for each group
+     * Example: Ruby itself, mruby, Rails itself, various gem, Red Data Tools etc.
+     * What kind of group you can do depends on the participants (If you do not have it yet, make it new)
+     * Desks and chairs are gathered for each group
        * To make code easy to write
      * Preparing n displays for each group (in adjustment)
        * In order to make it easy to share PC screen
