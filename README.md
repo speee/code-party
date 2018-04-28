@@ -4,7 +4,7 @@ Ruby is a programming language that focus to have fun. You have fun with program
 
 Rubyは楽しくプログラミングできることを大事にしているプログラミング言語です。みなさんも、いつもRubyで楽しくプログラミングしているはずです。だったら、いつものようにコードを書きながら懇親すると楽しそうじゃないですか！
 
-## イベント情報
+## Event Details（イベント情報）
 
   * [イベントページ](https://speee.connpass.com/event/85676)
   * 開催日時：2018年6月1日（金）19:30-21:30
@@ -14,19 +14,32 @@ Rubyは楽しくプログラミングできることを大事にしているプ�
   * 参加費：無料
   * 定員：40名
 
-## 内容
+## Contents（内容）
 
-これはよくある懇親会ではありません。よくある懇親会は参加者同士がお酒を飲みながら話をして交流します。コード懇親会は参加者同士が一緒にコードを書きながら交流します。せっかく他のRubyistと直接やりとりする機会です。一緒に開発して楽しみましょう。
+This is not a typical party. For familiar party, participants enjoy drinking and talking. At the code party, We will enjoy together while programing. It is an good opportunity to exchange directly with other Rubyists. Let's develop together and have fun!
+
+これはよくある懇親会ではありません。よくある懇親会は参加者同士がお酒を飲みながら話をして交流します。コード懇親会は参加者同士が一緒にコードを書きながら交流します。せっかく他のRubyistと直接やりとりする機会です。一緒に開発して楽しみましょう！
+
+Because it is not a typical party, there may be people saying "Although it seems to be fun, I can not tell whether I will participate or not because I care about what it will become." 
+So, in order to be able to imagine the contents of this code party, we have summarized some similar events, not doing things and doing things.
 
 よくある懇親会ではないので、「コードで懇親するのは楽しそうだけど、どういう内容になるかが気になって参加するかどうか判断できない」という人もいるでしょう。そこで、参加前にこの懇親会の内容をイメージできるように、似ている内容のイベント・やらないこと・やることをいくつかまとめました。
 
+If you have anything else you want to know please ask with the [issue](https://github.com/speee/code-party/issues). It is the same way as usual development! Because it's a code party!
+
 他にも知りたいことがある人は[issue](https://github.com/speee/code-party/issues)で質問してください。普段の開発と同じやり方です！だって、これはコード懇親会ですから！
 
-### 似ている内容
 
-コード懇親会の内容は「スプリント」と似ています。Pythonのイベントでは「スプリント」をよくみかけます。たとえば、[PyCon JP 2017 in Tokyoのスプリント](https://pycon.jp/2017/ja/events/sprint/)がありました。
+### Similar Contents（似ている内容）
+
+The content of the code party is similar to "Sprint". In Python's event, We often see "Sprint". For example, there was [Sprint of PyCon JP 2017 in Tokyo] (https://pycon.jp/2017/en/events/sprint/).
+
+コード懇親会の内容は「スプリント」と似ています。Pythonのイベントでは「スプリント」をよくみかけます。たとえば、[PyCon JP 2017 in Tokyo のスプリント](https://pycon.jp/2017/ja/events/sprint/)がありました。
+
+Both Sprint and code party write code, but Sprint focuses on developing it, Code Party focuses on writing code and enjoying it.
 
 スプリントもコード懇親会もコードを書きますが、スプリントは開発することにより注力し、コード懇親会は懇親することに注力します。
+
 
 コード懇親会の内容は少し「ハッカソン」に似ています。どちらもコードを書きますが、次のような違いがあります。
 
