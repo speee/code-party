@@ -74,7 +74,7 @@ Participants write code as usual as a code party. To do so, proceed as follows.
      * What kind of group you can do depends on the participants (If you do not have it yet, make it new)
      * Desks and chairs are gathered for each group
        * To make code easy to write
-     * Preparing n displays for each group (in adjustment)
+     * Preparing n displays for each group
        * In order to make it easy to share PC screen
      * White board prepared for each group
        * For easier discussion
@@ -84,7 +84,7 @@ Participants write code as usual as a code party. To do so, proceed as follows.
      * どんなグループができるかは参加者次第（まだなかったら新しく作る）
      * グループごとに机とイスがまとまっている
        * コードを書きやすくするため
-     * 各グループにn個のディスプレイを用意（調整中）
+     * 各グループにn個のディスプレイを用意
        * PCの画面を共有しやすくするため
      * 各グループにホワイトボードを用意
        * 相談しやすくするため
