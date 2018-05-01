@@ -79,7 +79,7 @@ Participants write code as usual as a code party. To do so, proceed as follows.
      * White board prepared for each group
        * For easier discussion
 
-  1. プロダクトごとにグループを作る
+     プロダクトごとにグループを作る
      * 例：Ruby本体やmrubyやRails本体や各種gemやRed Data Toolsなど
      * どんなグループができるかは参加者次第（まだなかったら新しく作る）
      * グループごとに机とイスがまとまっている
@@ -95,7 +95,7 @@ Participants write code as usual as a code party. To do so, proceed as follows.
      * You can talk to which group you would like to join at the reception
        * Receptionist is RubyKaigi 2018 keynote speaker Suto
 
-  2. 参加者はなにかしらのグループに入る
+     参加者はなにかしらのグループに入る
      * グループはあとから自由に変更できるので気軽に決めてよい
      * 事前にどのグループに入りたいかは決めてきても決めてこなくてもどちらでもよい
      * 受付でどのグループに入るのがよさそうか相談できる
@@ -112,7 +112,7 @@ Participants write code as usual as a code party. To do so, proceed as follows.
        * Example: There is time to briefly introduce to other groups what their group is doing on the way (about an hour)
      * Food and drink prepared at the venue
 
-  3. グループ内で一緒にコードを書きながら懇親
+     グループ内で一緒にコードを書きながら懇親
      * メインコンテンツ（2時間弱）
      * 例：オンラインで一緒に開発している人とオフラインで開発の相談
      * 例：普段使っているgemの作者にどこから開発に参加するのがよさそうか相談して開発に参加
@@ -129,7 +129,7 @@ Participants write code as usual as a code party. To do so, proceed as follows.
        * Since it is a code party, submit a questionnaire as usual!
      * Refer to [feedback](feedback/) for the submission method
 
-  4. アンケートを提出
+     アンケートを提出
      * 最後にこの会がどうだったかをプルリクエストで提出
        * コード懇親会なので、アンケートの提出もいつものように！
      * 提出方法は[feedback](feedback/)を参照
