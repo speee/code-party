@@ -74,7 +74,7 @@ Participants write code as usual as a code party. To do so, proceed as follows.
      * What kind of group you can do depends on the participants (If you do not have it yet, make it new)
      * Desks and chairs are gathered for each group
        * To make code easy to write
-     * Preparing n displays for each group
+     * Preparing N displays for each group
        * In order to make it easy to share PC screen
      * White board prepared for each group
        * For easier discussion
