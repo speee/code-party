@@ -1,0 +1,25 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    楽しかったです。こういう機会でもないと、プライベートなプログラミングの時間がとれないので。
+
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - mruby
+
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    します！
+
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+    仙台駅東口に中々たどり着けなかった。
