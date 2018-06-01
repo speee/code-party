@@ -1,0 +1,24 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    めちゃくちゃ楽しかった
+    ribのコードベースを触りながら、pryとか、IRBとかのコードを読んでわちゃわちゃしていた
+    本家に送ったPRも爆速でマージされて祭り感があった 🎉
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - rib
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    ( ﾟ∀ﾟ)o彡ﾟGo Go
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+    ハッシュタグがほしい！
