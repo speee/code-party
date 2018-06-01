@@ -1,0 +1,27 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun? =>yes!
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+   　　インターネットの歴史やAutolispの話、Rubyの逸話を松本さんに頂けて、楽しい時間を過ごせました。
+    また、情報源をドキュメントから英語で読む、インデントの大切さを教えて頂き、学びの多い時間でした。
+  groups:
+    # どのグループに参加しましたか？
+      Charty
+    # Which groups did you join?
+    - (Group1)
+    - (Group2)
+    - ...
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    yes
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+    ありがとうございました！！
+  
