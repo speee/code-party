@@ -1,0 +1,27 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    楽しかったです。
+    独りで開発していたので他の人がプロジェクトに参加する時の案内がまったく足りないことがわかってよかった。
+    自分が気づいてなかった点にいろいろ気づけてよかった。
+    MySQLの変なところを他の人に伝えることができてよかった。
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - mysqlx
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    参加したいです！
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+    実質的な開発を始める前に時間が過ぎてしまった。
+    ディスプレイがついてないテーブルに座ってしまったので、ディスプレイが欲しかった。
+    お寿司おいしかったです。
