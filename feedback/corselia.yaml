@@ -1,0 +1,22 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    楽しかったです。同じ内容（Ruboty）に興味を持つグループだったので、そのことについての話が盛り上がり、知見も広がりました。モブプログラミングのようなこともできたことも良かったです。
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - Ruboty
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    ぜひ参加したいです。
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+    あっという間に時間が過ぎてしまい、最後の方は大急ぎになってしまったので、もう少し余裕を持ってやりたいです。共有モニタはとても便利だったので、今後もあると嬉しいです。
