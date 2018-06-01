@@ -1,0 +1,26 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    I had fun. Motivation often increases when I hear the talks at RubyKaigi, so I thought that having a place to write code with that momentum is a good thing.
+    I already know that RUBY_PATCHLEVEL can be used for judging stable and dev/preview.
+    I did not know how to judge dev and preview.
+    When I was working on CRuby Island, mrkn told me that RUBY_PATCHLEVEL_STR could be used. It was very convenient.
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - packnga
+    - CRuby
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    Yes.
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+    I hope the code party will be held next time.
