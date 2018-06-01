@@ -1,0 +1,24 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    たのしかった
+    rubykaigi中に聞いたものを後で試してみようと思っていても、いざ始めるまでに時間がかかることがあるのできっかけ作りになった
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - mruby
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    参加したい
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+    事前にコード懇親会がどういったものかはリポジトリのreadmeを読んでいたが、実際に「なにやりますか？」と聞かれるとむずかしいｗ
+    コード書くのと、懇親するののバランス取りが難しかった（書くのに集中しすぎて自分の世界に入ってしまった）
