@@ -1,0 +1,23 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    まつもとさんという方が老害トークをしていたのが新鮮で面白かったです。
+    まじめな話をすると、いろいろな人とお話ができつつ、開発が進んでよいと思いました。(今日は進みませんでした)
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - charty
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    是非やりたいです！
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+    次回も楽しみにしています！
