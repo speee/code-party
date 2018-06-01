@@ -1,0 +1,23 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+      ものすごく楽しかったです！昨日のLTで紹介されていたrib のコードリーディング及び改善に挑戦しました。PR がその場で作成され作者にマージされるというのを観測できので満足です。なお私は一歩及ばなかったので、引き続きバグや改善のアイデアを見つけてプルリクエストを送りたいです。会の主催ありがとうございました！
+      I had so much fun! I tried to rib (repository link is bellow) codereading and improvement. my group member sent pull requests immediately, then onwer merge them. but I could not make PR, so I'll try to find bug and enhancement idea, send pull requests) thank you for inviting this party.
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join? 
+    - rib: https://github.com/godfat/rib
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+      また参加したいです
+      Yes
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    ...
