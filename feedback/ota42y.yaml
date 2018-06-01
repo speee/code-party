@@ -1,0 +1,22 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    楽しかったです。特にrubykaigiで色々やりたい欲が高まっているときに良い機会が得られました。また、実際に成果を形にすることもできました。 https://github.com/rubygems/rubygems/pull/2308
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - rubygems
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    参加したいです。
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+    その場でテーマを決めたので一人チームでした…確実にこれがいいというテーマではなかったので、先に今どんなテーマがあるかを見てから決めればよかった…というのが次回への反省です…(´・_・`)
