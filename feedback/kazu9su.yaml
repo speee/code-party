@@ -1,0 +1,25 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    #
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    (Answer)
+    どちらでもない
+    理由: テーマというか目的がふわっとしてたので単なるモクモクになった
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - steep
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    迷う
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+    もう少し具体的なゴールとかあったほうが個人的には好みでした。ただコード懇親会の目的とは違うかなと思うので、もうちょっとやること明確にして来たら良かったかなと思います。
