@@ -1,0 +1,24 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のライブラリーの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●● library, Ruby it was fun to write, etc.）
+    |
+    (Answer)
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - (Group1)
+    - (Group2)
+    - ...
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    (Answer)
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+    (Answer)
