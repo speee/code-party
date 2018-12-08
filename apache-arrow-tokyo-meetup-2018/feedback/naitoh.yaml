@@ -1,0 +1,22 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のライブラリーの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●● library, Ruby it was fun to write, etc.）
+    |
+    楽しかったです。村田さんの SparseTensor のPR を読んでいて、そこから疑問に思った Apatch Arrow の仕組みの一端(共有メモリ上でROとしてデータを渡す。)がわかりました。
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - Apache Arrow
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    はい！
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+    ありがとうございます！
