@@ -1,0 +1,20 @@
+questions:
+  started:
+    # 最初の一歩を踏み出せましたか？
+    # Did you start developing?
+    |
+    YES
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - Apache Arrow 全体
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    YES
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+    大分先にある目標に着手するとひたすら読むことから始まるので、ちょっと黙々とやり過ぎたかなという感じだった。
