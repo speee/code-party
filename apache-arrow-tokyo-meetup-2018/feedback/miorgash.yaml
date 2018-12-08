@@ -1,0 +1,23 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のライブラリーの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●● library, Ruby it was fun to write, etc.）
+    |
+    スキル高そうなかたがいっぱいいてヒリヒリしたのである意味楽しかったです．
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - Python
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    是非とも参加したいです
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+    Python のチームに関しては，Arrow 関連のパッケージに貢献しよう！というよりは python のデータハンドリング領域のパッケージ全般にコミットしていこうぜ，みたいな方向になっていた気がします．
+    あとは他のグループがどんな雰囲気だったのか若干気になりました．
