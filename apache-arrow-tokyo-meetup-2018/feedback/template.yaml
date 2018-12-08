@@ -3,20 +3,19 @@ questions:
     # 最初の一歩を踏み出せましたか？
     # Did you start developing?
     |
-    (Answer)
+      はい
   groups:
     # どのグループに参加しましたか？
     # Which groups did you join?
-    - (Group1)
-    - (Group2)
-    - ...
+    - R
   next:
     # またコード懇親会があったら参加したいですか？
     # Do you want to participate if there is a code party?
     |
-    (Answer)
+    もう少し手元の開発環境が整えば...
   etc:
     # なにか思ったことがあれば自由に書いてください。
     # You can send any feedbacks to organizers.
     |
-    (Answer)
+      こういういろんな言語のひとが集まる機会はあまりない気がするので、いろいろ話を聞けて面白かったです。
+      場に貢献できたのかわかりませんが楽しかったです。
