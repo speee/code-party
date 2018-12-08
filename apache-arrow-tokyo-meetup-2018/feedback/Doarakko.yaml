@@ -1,0 +1,22 @@
+questions:
+  started:
+    # 最初の一歩を踏み出せましたか？
+    # Did you start developing?
+    |
+    (Answer)
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - (Group1)
+    - (Group2)
+    - ...
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    (Answer)
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+    (Answer)
