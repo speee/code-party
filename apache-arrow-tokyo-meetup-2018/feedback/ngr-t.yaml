@@ -1,0 +1,17 @@
+  started:
+    # 最初の一歩を踏み出せましたか？
+    # Did you start developing?
+    Arrow を導入してイシュートラッカーを眺めた程度なので、一歩と言えば一歩、なのか…？
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - Python
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    もう少し準備出来ているプロジェクトに関してであれば、Yes
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    興味はあっても普段から使っている訳ではないプロジェクトの開発に急に飛び込むのは（少なくとも自分には）難しいのかなという印象を持った。
+    これまでも OSS にパッチを送ったことはあったが、基本的に自分が使うプロジェクトだった。
