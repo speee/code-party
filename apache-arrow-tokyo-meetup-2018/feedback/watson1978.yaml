@@ -1,0 +1,20 @@
+questions:
+  started:
+    # 最初の一歩を踏み出せましたか？
+    # Did you start developing?
+    |
+    Yes!! @mrkn さんが欲しいと言っていた scipy の sparse あたりを Ruby に移植するところから始めようと思っています。
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - Apache Arrow
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    Yes!!!
+    etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+    今後 Ruby 界隈に data 処理のニーズがますます高まって行くのだろうと思っており、今回 Apache Arrow の meetup に参加できたことは有意義です。
