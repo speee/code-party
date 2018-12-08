@@ -1,0 +1,21 @@
+questions:
+  started:
+    # 最初の一歩を踏み出せましたか？
+    # Did you start developing?
+    |
+    以前触って暫く離れていたので、1.5歩目くらいを踏み出せた
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - Apache Arrow本体
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    参加したい
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+    なかなかArrow周辺に踏み込むタイミングがなく、まとまった情報もあまり見つけられていなかったので良い機会だった
+    gandiva周りを掘り下げてみたい
