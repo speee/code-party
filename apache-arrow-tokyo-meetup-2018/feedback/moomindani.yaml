@@ -1,0 +1,22 @@
+questions:
+  started:
+    # 最初の一歩を踏み出せましたか？
+    # Did you start developing?
+    |
+    YES
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - Spark
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    YES
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+    Spark Commiter の皆さんから Contribution のアイデアをいただいて非常に参考になりました。
+    Documentation と Debug/Troubleshooting まわりの具体的なアイデアがあるので、来週のフォローアップイベントで試そうと思います。
+    こういった Next Action として OSS Contribution が明確に存在するイベントはとても有意義だと思いますので、機会があったらまた参加したいです。
