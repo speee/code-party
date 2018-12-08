@@ -1,0 +1,21 @@
+questions:
+  started:
+    # 最初の一歩を踏み出せましたか？
+    # Did you start developing?
+    |
+      yes
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - python
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    yes
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+      普段忙しさにかまけて後回しにしがちなことが多いので、OSSに向き合う時間が取れて、とても良かった。
+      新鮮な形式の懇親会だった。日々少しずつでも進めていくキッカケにしたい。
