@@ -1,0 +1,24 @@
+questions:
+  started:
+    # 最初の一歩を踏み出せましたか？
+    # Did you start developing?
+    |
+    Yes
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - Apache Arrow
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    |
+    Yes
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    |
+    普段の業務であまり接点のない言語や、普段触っていても
+    そこまで深い知見のない言語について、有識者の方々から
+    データ処理関連の最新状況をお伺いでき、とても有意義でした。
+    まだドキュメント改善系の minor なパッチしか投げられていないですが、
+    気長に開発に参加していきたいと考えています。
