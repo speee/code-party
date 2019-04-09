@@ -74,32 +74,24 @@ Participants write code as usual as a code party. To do so, proceed as follows.
      * What kind of group you can do depends on the participants (If you do not have it yet, make it new)
      * Desks and chairs are gathered for each group
        * To make code easy to write
-     * Preparing N displays for each group
-       * In order to make it easy to share PC screen
-     * White board prepared for each group
-       * For easier discussion
 
      プロダクトごとにグループを作る
      * 例：Ruby本体やmrubyやRails本体や各種gemやRed Data Toolsなど
      * どんなグループができるかは参加者次第（まだなかったら新しく作る）
      * グループごとに机とイスがまとまっている
        * コードを書きやすくするため
-     * 各グループにn個のディスプレイを用意
-       * PCの画面を共有しやすくするため
-     * 各グループにホワイトボードを用意
-       * 相談しやすくするため
 
   2. Participants join somewhere in the group
      * Group can be changed freely later, so feel free to decide
      * You can decide which group you want to join in advance, whichever you decide not to decide
      * You can talk to which group you would like to join at the reception
-       * Receptionist is RubyKaigi 2018 keynote speaker Suto
+       * Receptionist is RubyKaigi 2019 speaker Suto
 
      参加者はなにかしらのグループに入る
      * グループはあとから自由に変更できるので気軽に決めてよい
      * 事前にどのグループに入りたいかは決めてきても決めてこなくてもどちらでもよい
      * 受付でどのグループに入るのがよさそうか相談できる
-       * 受付はRubyKaigi 2018キーノートスピーカーの須藤
+       * 受付はRubyKaigi 2019 スピーカーの須藤
 
   3. Interacting while writing the code together in the group
      * Main content (less than 2 hours)
