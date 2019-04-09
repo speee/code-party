@@ -1,0 +1,24 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    (Answer)
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - (Group1)
+    - (Group2)
+    - ...
+  next:
+    # OSS開発を続けたいですか?
+    # Will you keep on contributing to open source?
+    |
+    (Answer)
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # Pleae give us your feedback. It would mean alot to us.
+    |
+    (Answer)
