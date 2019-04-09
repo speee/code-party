@@ -4,9 +4,9 @@
 
 1. Fork this repository
 2. Create a branch such as `rubykaigi-2019-feedback`
-3. Copy `feedback/template.yaml` to `feedback/#{your_github_account}.yaml`
+3. Copy `rubykaigi-2019/feedback/template.yaml` to `feedback/#{your_github_account}.yaml`
 4. Fill your answers against questions in `feedback/#{your_github_account}.yaml`
-5. Commit `feedback/#{your_github_account}.yaml`
+5. Commit `rubykaigi-2019/feedback/#{your_github_account}.yaml`
 6. Push the branch
 7. Send a pull request
 
@@ -14,9 +14,9 @@
 
 1. このリポジトリーをフォーク
 2. `rubykaigi-2019-feedback`ようなブランチを作る
-3. `feedback/template.yaml`を`feedback/#{your_github_account}.yaml`にコピー
-4. `feedback/#{your_github_account}.yaml`内の質問に回答
-5. `feedback/#{your_github_account}.yaml`をコミット
+3. `rubykaigi-2019/feedback/template.yaml`を`feedback/#{your_github_account}.yaml`にコピー
+4. `rubykaigi-2019/feedback/#{your_github_account}.yaml`内の質問に回答
+5. `rubykaigi-2019/feedback/#{your_github_account}.yaml`をコミット
 6. このブランチをpush
 7. プルリクエストを作成
 
