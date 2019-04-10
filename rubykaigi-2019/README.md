@@ -14,6 +14,8 @@ Rubyは楽しくプログラミングできることを大事にしているプ�
   * Entry Fee：Free
   * Capacity：about 50 people
   
+  
+  
   * [イベントページ](https://speee.connpass.com/event/123541/)
   * 開催日時：2019年4月19日（金）18:30-21:00
     * 開場時間：18:30
