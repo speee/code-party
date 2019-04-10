@@ -6,13 +6,22 @@ Rubyは楽しくプログラミングできることを大事にしているプ�
 
 ## Event Details（イベント情報）
 
+ * [Event Page](https://speee.connpass.com/event/123541/)
+  * Date：4,19,2019 Fri. 18:30-21:00
+    * Start Time：18:30
+    * RubyKaigi 2019 Day2
+  * Place：[sunpalace hotel and hall／heian](http://www.f-sunpalace.com/info/)
+  * Entry Fee：Free
+  * Capacity：about 50 people
+  
   * [イベントページ](https://speee.connpass.com/event/123541/)
   * 開催日時：2019年4月19日（金）18:30-21:00
     * 開場時間：18:30
     * RubyKaigi 2019 2日目
   * 会場：[sunpalace hotel and hall／heian](http://www.f-sunpalace.com/info/)
   * 参加費：無料
-  * 定員：45名
+  * 定員：約50名
+
 
 ## Contents（内容）
 
