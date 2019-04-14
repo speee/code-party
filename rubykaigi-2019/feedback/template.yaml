@@ -13,7 +13,7 @@ questions:
     - (Group2)
     - ...
   next:
-    # OSS開発を続けたいですか?
+    # 今後も日常的にOSS開発を続けたいですか?
     # Will you keep on contributing to open source?
     |
     (Answer)
