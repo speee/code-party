@@ -1,0 +1,16 @@
+questions:
+  fun:
+    |
+    Redmineの環境構築を皆でしてtrunk・2.6、MySQL・PostgreSQL・SQLite3、いろんな動作環境で同時にテストを流してみんな同じテストが落ちて盛り上がって楽しかった。
+    RedmineやRedmineプラグイン開発の面白さを話せて楽しかった。
+    システムの時刻をUTC+02:00に変えるとテストが通って爆笑してしまった。
+    rmagickメンテナーの方がいたのでrmagickがサポートしているImageMagick・rubyのバージョンがあるというのを教えてもらえてよかった。
+    将来的にRedmineがサポートしているrubyのバージョンとコンフリクトしそう。
+  groups:
+    - Redmine
+  next:
+    |
+    やっていきたい
+  etc:
+    |
+    コード見てもりあがってすごくたのしかったです!!
