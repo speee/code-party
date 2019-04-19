@@ -2,10 +2,10 @@ questions:
   fun:
     # 楽しかったですか？
     # Did you have fun?
-    True
     # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
     # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
     |
+    True
     A lot of pull requests for Charty have come!!
   groups:
     # どのグループに参加しましたか？
@@ -19,4 +19,5 @@ questions:
   etc:
     # なにか思ったことがあれば自由に書いてください。
     # Pleae give us any feedback.
+    |
     Had fun!
