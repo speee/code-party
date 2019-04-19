@@ -1,0 +1,24 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    楽しかったです。
+    女性の参加者が増えたのもよいですね。
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - NLP
+  next:
+    # 今後も日常的にOSS開発を続けたいですか?
+    # Will you keep on contributing to open source?
+    |
+    したいです！NLPをRubyでいい感じにしたいです！
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # Pleae give us any feedback.
+    |
+    Red Data ToolsというコミュニティでNLPもやっています。興味を持った方はぜひ参加してみてください。
+    https://red-data-tools.github.io/ja/
