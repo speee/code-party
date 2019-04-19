@@ -1,0 +1,23 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    なかなか時間が取れずに後回しになっていたrailsへのバグ報告が出来ました。
+    railsへのissue報告は初めてでしたが@yahondaさんに助言をいただきながら出せました。
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - Rails
+  next:
+    # 今後も日常的にOSS開発を続けたいですか?
+    # Will you keep on contributing to open source?
+    |
+    はい。OSSパッチ会にも機会があれば参加したいです。
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # Pleae give us any feedback.
+    |
+    ホストしていただいた、Speeeさん、ありがとうございました！
