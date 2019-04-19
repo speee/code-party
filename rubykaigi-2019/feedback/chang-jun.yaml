@@ -1,0 +1,22 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    楽しめました。新しい知識が得られたのと、同じように関心を持っている方や実際に開発をガンガン進められている話を聞けたので。
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - NLP
+  next:
+    # 今後も日常的にOSS開発を続けたいですか?
+    # Will you keep on contributing to open source?
+    |
+    まだハードルが高い感じがしますが、ゆくゆくは携われたらなと思います。
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # Pleae give us any feedback.
+    |
+    Rubykaigiのセッションの後に行うのすごくいいと思いました！
