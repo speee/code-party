@@ -1,0 +1,26 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    楽しかったです。
+    Red Data Toolsの方々がいるテーブルでChartyを動かしてみることができました。
+    OSS貢献の第一歩で、Chartyのドキュメンテーションにコミットすることができました。
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - Charty
+  next:
+    # 今後も日常的にOSS開発を続けたいですか?
+    # Will you keep on contributing to open source?
+    |
+    はい。
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # Pleae give us any feedback.
+    |
+    開催ありがとうございます！
+    オープンな場所で、周りのグループの話もちょっと耳に入れながらわいわいできてよかったです。OSS活動貢献への関心も高まりました。
+    コードで懇親できた点がとてもよかったです。同じものに興味がある人同士やそれについて詳しい人たちと交流することができました。
