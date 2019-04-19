@@ -1,0 +1,22 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    知らない人とも話ができてよかったです。
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - Ruby (dRuby)
+  next:
+    # 今後も日常的にOSS開発を続けたいですか?
+    # Will you keep on contributing to open source?
+    |
+    変わらず続けていきたいです。
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # Pleae give us any feedback.
+    |
+    Wi-Fi 情報を確認せずに入ってしまったらわからないままで、テザリングで繋いでいたので、ネットワーク情報の掲示を増やしてほしいです。
