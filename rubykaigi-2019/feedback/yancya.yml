@@ -1,0 +1,20 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（ex:Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    Redmine のリポジトリを clone してテストを実行するだけで落ちまくってしまって、調べてみたら、どうやらタイムゾーンによって落ちたり落ちなかったりすることが分かって、めっちゃウケた
+    RMagick を使ったコードがエラーで落ちて困っていたら、なぜか同じテーブルに RMagick のメンテナーの人がいて助けてくれたの、めっちゃウケる
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - Redmine
+  next:
+    # またコード懇親会があったら参加したいですか？
+    # Do you want to participate if there is a code party?
+    またおねがいします
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # You can send any feedbacks to organizers.
+    とくにないす
