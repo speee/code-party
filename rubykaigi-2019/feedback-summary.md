@@ -72,6 +72,8 @@ ioquatix: I enjoyed to spend time with other Ruby programmers. We have trouble c
 ========================================
 jeremyevans: Yes. I had a lot of fun working on Ruby syntax changes.
 ========================================
+jinroq: 昨年も参加した oda-i3 です。遅れて来たので環境構築で終わってしまいました…。残念！
+========================================
 ken3ypa:
 Yes.
 インド出身の方と英語でやりとりしつつ、一緒にコードを書くことが出来た。
@@ -163,6 +165,9 @@ Ruby (DRb)
 jeremyevans:
 Ruby
 ========================================
+jinroq:
+redmine
+========================================
 ken3ypa:
 Ruby
 ========================================
@@ -248,6 +253,8 @@ ioquatix: Yes.
 ========================================
 jeremyevans: Definitely.
 ========================================
+jinroq: 続けたいです。ただ、続けられるような環境が上手く作れていないです。
+========================================
 ken3ypa:
 Yes.
 ========================================
@@ -318,6 +325,8 @@ hoshinotsuyoshi: 去年も参加しました! またお願いします!!
 ioquatix: It would be useful to have some pens and paper. The food was very nice. It was very relaxing. I wish we had more time together.
 ========================================
 jeremyevans: Thank you very much for providing a venue for all of us to work on improving Ruby during RubyKaigi.
+========================================
+jinroq: 昨年は mruby チームでしたが、もくもく会でした。今回はみんなコミュニケーション取れたので良かったです。
 ========================================
 ken3ypa:
 None.
